@@ -1,8 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo&Open+Sans&family=Roboto:wght@700;900&display=swap');
 
 body {
-    background-color: #efefef;
+    /* background-color: #efefef; */
+    background-color: #F8EFE4;
+    color: #282120;
     font-family: 'Open Sans', sans-serif;
+}
+
+.arabic {
+    font-family: 'Cairo', sans-serif;
+}
+
+.middle-section {
+    background-color: #E6C2BF;
 }
 
 h1, h2, h3, h4, h5, h6 {
